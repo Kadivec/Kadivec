@@ -1,6 +1,6 @@
 # Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-🎓 I am Andraž Kadivec, a Computer Engineer from Slovenia 🇸🇮. I am also pursuing my Bachelor in Information Security and will graduate in mid-2024.
+🎓 I am Andraž Kadivec, a Computer Engineer from Slovenia ![image](https://github.com/Kadivec/Kadivec/assets/137300710/103f5597-431a-40cf-b663-bb1381c1e93a). I am also pursuing my Bachelor in Information Security and will graduate in mid-2024.
 
 👨‍💻 I am really enthusiastic about learning new technology.
 
